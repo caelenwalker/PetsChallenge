@@ -1,0 +1,11 @@
+C:\Users\cm3wa\OneDrive\Desktop\Pets Challenge\bin\Debug\netcoreapp3.1\Pets Challenge.exe
+C:\Users\cm3wa\OneDrive\Desktop\Pets Challenge\bin\Debug\netcoreapp3.1\Pets Challenge.deps.json
+C:\Users\cm3wa\OneDrive\Desktop\Pets Challenge\bin\Debug\netcoreapp3.1\Pets Challenge.runtimeconfig.json
+C:\Users\cm3wa\OneDrive\Desktop\Pets Challenge\bin\Debug\netcoreapp3.1\Pets Challenge.runtimeconfig.dev.json
+C:\Users\cm3wa\OneDrive\Desktop\Pets Challenge\bin\Debug\netcoreapp3.1\Pets Challenge.dll
+C:\Users\cm3wa\OneDrive\Desktop\Pets Challenge\bin\Debug\netcoreapp3.1\Pets Challenge.pdb
+C:\Users\cm3wa\OneDrive\Desktop\Pets Challenge\obj\Debug\netcoreapp3.1\Pets Challenge.csprojAssemblyReference.cache
+C:\Users\cm3wa\OneDrive\Desktop\Pets Challenge\obj\Debug\netcoreapp3.1\Pets Challenge.AssemblyInfoInputs.cache
+C:\Users\cm3wa\OneDrive\Desktop\Pets Challenge\obj\Debug\netcoreapp3.1\Pets Challenge.AssemblyInfo.cs
+C:\Users\cm3wa\OneDrive\Desktop\Pets Challenge\obj\Debug\netcoreapp3.1\Pets Challenge.dll
+C:\Users\cm3wa\OneDrive\Desktop\Pets Challenge\obj\Debug\netcoreapp3.1\Pets Challenge.pdb
